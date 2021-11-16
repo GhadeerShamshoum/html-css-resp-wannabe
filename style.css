@@ -40,7 +40,7 @@
 @media screen and (min-width:420px) and (max-width:800px){
   h1{
     color: white;
-    text-shadow:2px 2px #0400ff;
+    text-shadow:2px 2px #080808;
   }
   .row{
     width: 95%;
@@ -114,18 +114,20 @@
     border-radius: 20px;
     margin:10px auto;
   }
+    #steps {
+      text-align: center;
+      background-color:  rgb(138, 163, 248);
+    }
+  }
   
-}
 
-#steps {
-  text-align: center;
-  background-color:  rgb(138, 163, 248);
-}
+
 
 /* BLOCCO PERCHE */
 #why {
   text-align: center;
 }
+
 
 #why .row>.first,
 #why .row>.second,
