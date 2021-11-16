@@ -43,8 +43,8 @@
 
 @media screen and (min-width:420px) and (max-width:800px){
   h1{
-    color: white;
-    text-shadow:2px 2px #080808;
+    color: black;
+    
   }
   .row{
     width: 95%;
@@ -52,7 +52,7 @@
   }
 
   #lezioni, #why{
-    background-color: rgb(177, 187, 221);
+    background-color: rgb(247, 250, 203);
   }
   
   #lezioni .row>.left,
@@ -65,7 +65,7 @@
    
   }
   .left, .right{
-    background-color: cornflowerblue;
+    background-color: rgb(240, 210, 156);
     border-radius: 20px;
     
   }
@@ -118,13 +118,13 @@
     width: 90%;
     display: block;
     padding: 10px 0;
-    background-color: rgba(46, 59, 245, 0.404);
+    background-color: rgb(240, 210, 156);
     border-radius: 20px;
     margin:10px auto;
   }
     #steps {
       text-align: center;
-      background-color:  rgb(138, 163, 248);
+      background-color: rgb(247, 250, 203);
     }
   }
   
